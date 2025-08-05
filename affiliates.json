@@ -1,12 +1,22 @@
 [
   {
-    "title": "Relationship Kit",
-    "url": "https://amazon.com/dp/B0000000",
+    "title": "Long-Distance Relationship Kit",
+    "url": "https://www.amazon.com/dp/B0000000/?tag=isaacbland-20",
     "active": true
   },
   {
-    "title": "Tiny Living Tech (Featured)",
-    "url": "https://amazon.com/dp/B1111111",
+    "title": "Tiny Living Tech Essentials",
+    "url": "https://www.amazon.com/dp/B1111111/?tag=isaacbland-20",
+    "active": true
+  },
+  {
+    "title": "Gifts That Bridge the Distance",
+    "url": "https://www.amazon.com/dp/B2222222/?tag=isaacbland-20",
+    "active": true
+  },
+  {
+    "title": "Travel Gear for First-Time Meetups",
+    "url": "https://www.amazon.com/dp/B3333333/?tag=isaacbland-20",
     "active": true
   }
 ]
