@@ -1,22 +1,16 @@
 [
   {
-    "title": "Long-Distance Relationship Kit",
-    "url": "https://www.amazon.com/dp/B0000000/?tag=isaacbland-20",
-    "active": true
+    "category": "Tech for Couples",
+    "name": "Translator Earbuds",
+    "url": "https://www.amazon.com/dp/B09V7XW4XL?tag=isaacbland-20",
+    "image": "assets/earbuds.jpg",
+    "desc": "Break language barriers instantly on your first trip together."
   },
   {
-    "title": "Tiny Living Tech Essentials",
-    "url": "https://www.amazon.com/dp/B1111111/?tag=isaacbland-20",
-    "active": true
-  },
-  {
-    "title": "Gifts That Bridge the Distance",
-    "url": "https://www.amazon.com/dp/B2222222/?tag=isaacbland-20",
-    "active": true
-  },
-  {
-    "title": "Travel Gear for First-Time Meetups",
-    "url": "https://www.amazon.com/dp/B3333333/?tag=isaacbland-20",
-    "active": true
+    "category": "Travel Essentials",
+    "name": "Carry-On Backpack",
+    "url": "https://www.amazon.com/dp/B07ZRVX6RM?tag=isaacbland-20",
+    "image": "assets/backpack.jpg",
+    "desc": "Perfect size for weekend reunions and first flights together."
   }
 ]

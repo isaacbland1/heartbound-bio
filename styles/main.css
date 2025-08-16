@@ -1,0 +1,13 @@
+:root { --brand:#b91c1c; --ink:#111; --muted:#666; --bg:#fff; --card:#f7f7f7; }
+*{box-sizing:border-box} html,body{margin:0;font-family:system-ui,-apple-system,Segoe UI,Roboto,Arial,sans-serif;color:var(--ink);background:var(--bg)}
+header{text-align:center;padding:32px 16px} #logo{width:88px;height:88px;object-fit:contain;display:none;margin:0 auto 8px}
+h1{margin:8px 0 4px;font-size:1.6rem} #tagline{color:var(--muted);margin:0 0 12px}
+.btn{display:inline-block;padding:10px 14px;border-radius:10px;text-decoration:none;border:1px solid var(--brand)}
+.btn-primary{background:var(--brand);color:#fff} main{max-width:980px;margin:0 auto;padding:16px}
+h2{margin:24px 8px 12px;font-size:1.2rem} .grid{display:grid;gap:12px;grid-template-columns:repeat(1,minmax(0,1fr))}
+@media(min-width:600px){.grid{grid-template-columns:repeat(2,minmax(0,1fr))}}
+.card{background:var(--card);border-radius:14px;padding:12px;display:flex;gap:12px;align-items:center}
+.card img{width:84px;height:84px;object-fit:cover;border-radius:10px;background:#eaeaea}
+.card .meta{flex:1} .card .meta h3{margin:0 0 6px;font-size:1rem}
+.card .meta p{margin:0 0 10px;color:var(--muted);font-size:.92rem}
+.card .actions a{white-space:nowrap} footer{text-align:center;color:var(--muted);font-size:.88rem;padding:24px 12px 40px}
