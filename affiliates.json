@@ -12,5 +12,19 @@
     "url": "https://www.amazon.com/dp/B07ZRVX6RM?tag=isaacbland-20",
     "image": "assets/backpack.jpg",
     "desc": "Perfect size for weekend reunions and first flights together."
+  },
+  {
+    "category": "Apps",
+    "name": "Couple Planning App",
+    "url": "https://www.amazon.com/dp/B08N5WRWNW?tag=isaacbland-20",
+    "image": "assets/placeholder.jpg",
+    "desc": "Plan trips, budgets, and goals together."
+  },
+  {
+    "category": "Cameras",
+    "name": "Action Camera",
+    "url": "https://www.amazon.com/dp/B0C3P6VDBK?tag=isaacbland-20",
+    "image": "assets/placeholder.jpg",
+    "desc": "Capture your first meeting hands-free."
   }
 ]
