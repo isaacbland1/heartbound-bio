@@ -1,7 +1,8 @@
 async function loadJSON(p){const r=await fetch(p,{cache:"no-store"});if(!r.ok)throw new Error(`Failed ${p}: ${r.status}`);return r.json()}
 function el(t,a={},c=[]){const n=document.createElement(t);Object.entries(a).forEach(([k,v])=>{if(k==="class")n.className=v;else if(k==="text")n.textContent=v;else n.setAttribute(k,v)});c.forEach(x=>n.appendChild(x));return n}
+function imgEl(src,alt){const i=document.createElement("img");const s=src&&src.length?src:"assets/placeholder.jpg";i.src=s+(s.includes("?")?"&":"?")+"v="+Date.now();i.alt=alt||"Item";i.onerror=()=>{i.src="assets/placeholder.jpg"};return i}
 function card({image,name,desc,url,cta="Open"}){return el("div",{class:"card"},[
-  el("img",{src:image||"assets/placeholder.jpg",alt:name||"Item"}),
+  imgEl(image,name),
   el("div",{class:"meta"},[el("h3",{text:name||"Untitled"}),el("p",{text:desc||""})]),
   el("div",{class:"actions"},[el("a",{href:url,target:"_blank",rel:"noopener",class:"btn btn-primary",text:cta})])
 ])}
