@@ -3,28 +3,14 @@
     "category": "Tech for Couples",
     "name": "Translator Earbuds",
     "url": "https://www.amazon.com/dp/B09V7XW4XL?tag=isaacbland-20",
-    "image": "assets/earbuds.jpg",
+    "image": "https://m.media-amazon.com/images/I/61kMK1cLmuL._AC_SL1500_.jpg",
     "desc": "Break language barriers instantly on your first trip together."
   },
   {
     "category": "Travel Essentials",
     "name": "Carry-On Backpack",
     "url": "https://www.amazon.com/dp/B07ZRVX6RM?tag=isaacbland-20",
-    "image": "assets/backpack.jpg",
+    "image": "https://m.media-amazon.com/images/I/81vNX98w8lL._AC_SL1500_.jpg",
     "desc": "Perfect size for weekend reunions and first flights together."
-  },
-  {
-    "category": "Apps",
-    "name": "Couple Planning App",
-    "url": "https://www.amazon.com/dp/B08N5WRWNW?tag=isaacbland-20",
-    "image": "assets/placeholder.jpg",
-    "desc": "Plan trips, budgets, and goals together."
-  },
-  {
-    "category": "Cameras",
-    "name": "Action Camera",
-    "url": "https://www.amazon.com/dp/B0C3P6VDBK?tag=isaacbland-20",
-    "image": "assets/placeholder.jpg",
-    "desc": "Capture your first meeting hands-free."
   }
 ]
