@@ -1,8 +1,3 @@
 [
-  {
-    "name": "First Meeting Package (Nashville)",
-    "url": "mailto:heartboundjourneys@gmail.com",
-    "desc": "We help plan, capture, and celebrate your first in-person meeting in Nashville.",
-    "image": "assets/nashville.jpg"
-  }
+  {"name":"First Meeting Package (Nashville)","url":"mailto:heartboundjourneys@gmail.com","desc":"We help plan, capture, and celebrate your first in-person meeting in Nashville.","image":"assets/nashville.jpg"}
 ]
