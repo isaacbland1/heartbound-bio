@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://isaacbland1.github.io/heartbound-bio/sitemap.txt
